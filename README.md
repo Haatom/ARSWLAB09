@@ -1,5 +1,6 @@
 ### Escuela Colombiana de Ingeniería
 ### Arquitecturas de Software - ARSW
+### Nicolas Camacho Hurtado, David Perez Mejia
 
 ## Escalamiento en Azure con Maquinas Virtuales, Sacale Sets y Service Plans
 
