@@ -375,6 +375,39 @@ El hash se utiliza para asignar el tráfico a los servidores disponibles. El alg
 Se puede filtrar el trafico de red hacia los recursos de Azure y desde los recursos de Azure en una red virtual de Azure con un grupo de seguridd de red, además contienen reglas de seguridad que permiten o niegan el táfico de una red entrante.
 
 * Informe de newman 1 (Punto 2)
+
+
+Luego de realizar los pasos correspondientes para realizar las respectivas pruebas en Escalabilidad Vertical y Horizontal, se presenta primero la Escalabilidad Horizontal, en la que se evidencia que cada solicitud se demoró en promedio 27 segundos, donde ninguna solicitud falló.
+
+![](img/parte2/newman1.png)
+
+Ahora, se presentan las pruebas luego de realizar Escalabilidad Vertical. Como se ve a continuación, cada solicitud se demoró en promedio 27 segundos también, donde 4 solicitudes fallaron.
+
+![](img/parte2/newman2.png)
+
+
+Uso y comportamiento de la CPU de las 4 maquinas virtuales:
+
+Maquina 1: (60% de uso)
+
+![](img/parte2/machine1.png)
+
+Maquina 2: (47% de uso)
+
+![](img/parte2/machine2.png)
+
+Maquina 3: (32% de uso)
+
+![](img/parte2/machine3.png)
+
+Maquina 4: (10% de uso)
+
+![](img/parte2/machine4.png)
+
+
+
+
+
 * Presente el Diagrama de Despliegue de la solución.
 
 
