@@ -405,10 +405,9 @@ Maquina 4: (10% de uso)
 ![](img/parte2/machine4.png)
 
 
-
-
-
 * Presente el Diagrama de Despliegue de la solución.
+
+![](img/parte2/diagramadespliegue.png)
 
 
 
