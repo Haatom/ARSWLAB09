@@ -377,11 +377,11 @@ Se puede filtrar el trafico de red hacia los recursos de Azure y desde los recur
 * Informe de newman 1 (Punto 2)
 
 
-Luego de realizar los pasos correspondientes para realizar las respectivas pruebas en Escalabilidad Vertical y Horizontal, se presenta primero la Escalabilidad Horizontal, en la que se evidencia que cada solicitud se demoró en promedio 27 segundos, donde ninguna solicitud falló.
+Luego de realizar los pasos correspondientes para realizar las respectivas pruebas en Escalabilidad Vertical y Horizontal, se presenta primero la Escalabilidad Horizontal, en la que se evidencia que cada solicitud se demoró en promedio 27.6 segundos, donde ninguna solicitud falló.
 
 ![](img/parte2/newman1.png)
 
-Ahora, se presentan las pruebas luego de realizar Escalabilidad Vertical. Como se ve a continuación, cada solicitud se demoró en promedio 27 segundos también, donde 4 solicitudes fallaron.
+Ahora, se presentan las pruebas luego de realizar Escalabilidad Vertical. Como se ve a continuación, cada solicitud se demoró en promedio 27.2 segundos también, donde 4 solicitudes fallaron.
 
 ![](img/parte2/newman2.png)
 
